@@ -6,11 +6,13 @@ Browser games built with React + three.js where the **laptop is the screen** and
 |---|---|---|---|
 | Gyro Runner: endless flyer through a field of towers | [`gyro-runner/`](gyro-runner) | 5274 | Tilt to steer, tip forward/back to dive/climb |
 | Fruit Smash: slice tossed fruit, dodge thorn mines | [`fruit-smash/`](fruit-smash) | 5275 | Point like a remote and swing to slash |
+| Free Fly: open flight over sky islands or through deep space, no obstacles or score | [`free-fly/`](free-fly) | 5277 | Tilt to bank and turn, tip to climb/dive, hold Boost |
+| Free Flight: no-score sandbox flying over a sunset ocean or through deep space | [`free-flight/`](free-flight) | 5276 | Tilt to turn, tip to climb/dive, hold Boost / Brake |
 
 ## Run a game
 
 ```bash
-cd gyro-runner   # or fruit-smash
+cd gyro-runner   # or fruit-smash, free-fly, free-flight
 npm install
 npm run dev
 ```
